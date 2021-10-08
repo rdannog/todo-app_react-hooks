@@ -1,3 +1,3 @@
-# react-bkuahw
+# Todo App with React Hooks
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-bkuahw)
+In this project I learned how to use useState and useEffect hooks by creating a simple Todo App
